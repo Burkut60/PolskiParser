@@ -43,5 +43,6 @@ public class ParsingInExpression {
             }
         }
         System.out.println(numbers.get(0));
+
     }
 }
